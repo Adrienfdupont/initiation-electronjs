@@ -1,0 +1,23 @@
+{
+  "name": "initiation-electronjs",
+  "version": "1.0.0",
+  "description": "First Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrienfdupont/initiation-electronjs.git"
+  },
+  "author": "Adrienfdupont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adrienfdupont/initiation-electronjs/issues"
+  },
+  "homepage": "https://github.com/Adrienfdupont/initiation-electronjs#readme",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
